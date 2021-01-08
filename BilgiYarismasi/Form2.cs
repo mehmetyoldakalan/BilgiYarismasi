@@ -28,7 +28,7 @@ namespace BilgiYarismasi
             label11.Text = sure.ToString();
             button1.Text = "İLERİ";
             soruno++;
-            label4.Text = soruno.ToString() + ". soru";
+            label4.Text = soruno.ToString() + "/26";
             button3.Enabled = true;
             button4.Enabled = true;
             button5.Enabled = true;
